@@ -1,0 +1,5 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam orci tortor, ullamcorper sit amet tristique at, varius in mauris.
+Duis consectetur dolor mi, eu mollis urna auctor nec. Integer euismod nisi id pellentesque condimentum.
+Sed augue eros, ornare eget urna eu, egestas placerat justo.
+media=TXT|IMAGE|VIDEO|LINK|SHARE
+file={<file_name1>.ext/<file_name2>.ext} | <file_name2>.ext | {link} | {URNpost}
